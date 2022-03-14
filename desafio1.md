@@ -1,4 +1,4 @@
-## Questão 1 Denise R
+## Questão 1 Denise Rodrig
 [LinkedIn](https://www.linkedin.com/in/denise-r-b3bab9205/)
 [Instagram](https://www.instagram.com/development__studio/)
 
