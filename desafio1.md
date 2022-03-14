@@ -1,7 +1,12 @@
-crie dois input do tipo numero para receber duas notas e assim poder calcula sua media.
-Acesse [aqui](https://codepen.io/Denise-rodrig/pen/MWrYvBw) para ver funcionando.
+## Questão 1 Denise R
+[LinkedIn](https://www.linkedin.com/in/denise-r-b3bab9205/)
+[Instagram](https://www.instagram.com/development__studio/)
 
-### solução
+### Descrição: 
+crie dois input do tipo numero para receber duas notas e assim poder calcular sua media.
+
+
+### Solução
 ~~~HTML
 <input type=number placeholder='nota 1' id=nota1></input>
 <input type=number placeholder='nota 2' id='nota2'></input>
@@ -28,3 +33,6 @@ action.addEventListener("click", function () {
   }
 });
 ~~~
+
+### Veja no [CodePen](https://codepen.io/Denise-rodrig/pen/MWrYvBw)
+
